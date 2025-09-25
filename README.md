@@ -26,7 +26,7 @@ The dataset used in this analysis is available in the repository:
 
     - Ensured consistency across multiple fields like region, sales channel, and revenue.
 
-2. Data Cleaning & Preparation
+2. **Data Cleaning & Preparation**
 
     - Removed duplicates and missing values.
 
@@ -34,7 +34,7 @@ The dataset used in this analysis is available in the repository:
 
     - Converted dates for yearly and monthly trend analysis.
 
-3. Data Analysis (Using DAX & Power BI)
+3. **Data Analysis (Using DAX & Power BI)**
 
     - Performed calculations and KPIs to:
 
@@ -46,7 +46,7 @@ The dataset used in this analysis is available in the repository:
 
     - Break down sales by region and country.
 
-4. Dashboard Creation
+4. **Dashboard Creation**
 
     - Designed an interactive dashboard in Power BI.
 
@@ -54,7 +54,7 @@ The dataset used in this analysis is available in the repository:
 
     - Created filters and slicers for drill-down analysis.
 
-5. Insight Extraction
+5. **Insight Extraction**
 
     - Interpreted the visuals to highlight business insights and actionable outcomes.
 ---
@@ -70,17 +70,17 @@ The dataset used in this analysis is available in the repository:
 
 🌍 Regional Highlights
 
-  - Sub-Saharan Africa & Asia together contribute ~61% of total revenue.
+  - **Sub-Saharan Africa & Asia** together contribute ~61% of total revenue.
 
-  - Europe & Middle East show moderate revenue generation.
+  - **Europe & Middle East** show moderate revenue generation.
 
-  - North America & Australia underperform compared to other regions.
+  - **North America & Australia** underperform compared to other regions.
 
 📅 Trends Over Time
 
   - Profits peaked in 2015 (47.23M) and declined to 22.15M in 2017.
 
-  - August & September show higher monthly profits, while April & October show dips.
+  - **August & September** show higher monthly profits, while **April & October** show dips.
 
 🛒 Channel Insights
 
@@ -112,8 +112,8 @@ The dataset used in this analysis is available in the repository:
 
  The sales data analysis provided critical insights into business performance:
 
-  - Sub-Saharan Africa and Asia drive the majority of revenue.
-  - Profitability peaked in 2015 but has declined since, requiring strategy changes.
+  - **Sub-Saharan Africa and Asia** drive the majority of revenue.
+  - Profitability peaked in **2015** but has declined since, requiring strategy changes.
   - Online sales hold growth potential, while offline still dominates.
   - Seasonal/monthly trends indicate the need for resource optimization in peak months.
 
