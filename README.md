@@ -58,7 +58,7 @@ The dataset used in this analysis is available in the repository:
 
 5. Insight Extraction
 
--Interpreted the visuals to highlight business insights and actionable outcomes.
+- Interpreted the visuals to highlight business insights and actionable outcomes.
 
 🧠 Project Insights
 📊 Revenue & Profit Performance
@@ -103,9 +103,11 @@ The dataset used in this analysis is available in the repository:
 
 - Channel comparison (Offline vs Online)
 
-  You can download and explore the interactive Excel dashboard from the link below:
+  - You can download and explore the interactive Excel dashboard from the link below:
 
-🔗- <a href=>Image</a>
+🔗- <a href=https://github.com/Pranjal12-29/SALES_ANALYSIS_DASHBOARD/blob/main/Dashboard.png>Image</a>
+<img width="1035" height="589" alt="picture" src="https://github.com/Pranjal12-29/SALES_ANALYSIS_DASHBOARD/blob/main/Dashboard.png" />
+
 
 ## 🧾 Final Conclusion
 
