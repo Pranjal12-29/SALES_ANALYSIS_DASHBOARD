@@ -6,7 +6,7 @@ This project focuses on analyzing global sales data using **Power BI** for inter
 
 ## 📦 Dataset Used
 The dataset used in this analysis is available in the repository:
-- <a href="https://github.com/Aasthaa1229/Data-Analysis-Dashboard/blob/main/dashboard%20f.xlsx">DataSet</a>
+- <a href="https://github.com/Pranjal12-29/SALES_ANALYSIS_DASHBOARD/blob/main/sales_dashboard.pbit">DataSet</a>
 
 ---
 
